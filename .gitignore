@@ -1,0 +1,6 @@
+# 临时文件
+*~
+*.tmp
+*.log
+# 不忽略 .os-version (它是版本标记, 必须提交)
+!.os-version
