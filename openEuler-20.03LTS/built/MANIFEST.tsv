@@ -1,0 +1,12 @@
+# MANIFEST.tsv — openEuler-20.03LTS 产物校验清单
+file	sha256	size	source
+sdcshield	7a676026c3b7f6028fa58e8c116be56e062011936a78adeaa5aa7b387f88583b	2765920	built
+run-sdcshield.sh	f93a473285515599867dad2fd4a1ad4393eba13aebf95a23170873204e4c4e4f	502	built
+libs/libatomic.so.1	55e1077b4df98c5cbddfa52642d87b5ab61bcab5a82d4f8cd6f444af9a06f465	67488	bundled
+libs/libatomic.so.1.2.0	55e1077b4df98c5cbddfa52642d87b5ab61bcab5a82d4f8cd6f444af9a06f465	67488	bundled
+libs/libgcc_s-10.so.1	8f27a0e6f277f37d4f6ffa7dbaac7afc714824dd6e14fc75f9a166005914ac92	133328	bundled
+libs/libgcc_s.so.1	8f27a0e6f277f37d4f6ffa7dbaac7afc714824dd6e14fc75f9a166005914ac92	133328	bundled
+libs/libgomp.so.1	fb9b971b6ef577b05a9124639e53113340bf3edde3be9e5019d0b9d00d66e620	264920	bundled
+libs/libgomp.so.1.0.0	fb9b971b6ef577b05a9124639e53113340bf3edde3be9e5019d0b9d00d66e620	264920	bundled
+libs/libstdc++.so.6	abc727fa5965b5b04adacc33899041b556c2ede76fc8e45057fa5104c6a4d10a	1969152	bundled
+libs/libstdc++.so.6.0.28	abc727fa5965b5b04adacc33899041b556c2ede76fc8e45057fa5104c6a4d10a	1969152	bundled
