@@ -1,6 +1,6 @@
-# MANIFEST.tsv — openEuler-20.03LTS 产物校验清单
+# MANIFEST.tsv — openEuler-20.03LTS_SP4 产物校验清单
 file	sha256	size	source
-sdcshield	816629689d9d79b0781746ed7f9efdf28fdb7ca08a2942cdf690b8565b14ecee	2765920	built
+sdcshield	e9c0d5d3bb9c585b3a27450fd6d51f16b7b9dacc1f56ba9b7a745c63c4947d2b	2700432	built
 run-sdcshield.sh	f93a473285515599867dad2fd4a1ad4393eba13aebf95a23170873204e4c4e4f	502	built
 libs/libatomic.so.1	55e1077b4df98c5cbddfa52642d87b5ab61bcab5a82d4f8cd6f444af9a06f465	67488	bundled
 libs/libatomic.so.1.2.0	55e1077b4df98c5cbddfa52642d87b5ab61bcab5a82d4f8cd6f444af9a06f465	67488	bundled

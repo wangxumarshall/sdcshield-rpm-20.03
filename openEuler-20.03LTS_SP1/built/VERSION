@@ -1,0 +1,8 @@
+sdcshield openEuler-20.03LTS_SP1
+git: 6533993
+built: 2026-09-02
+series: 20.03  sp: SP1
+cpp_std: gnu++20  macro: OPENEULER_20_03
+image: ghcr.io/wangxumarshall/sdcshield-offline:20.03-LTS-SP1
+binary-sha256: 116f791c45d8375f5962f6dd0f9aaa06a2ca8e1f90140ca173285e8be519229c
+build-hash: 8fe848c03bb4e8e91471337d4ab5e75e3bba86783cedacfc1af6b160b33dcfce
